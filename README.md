@@ -6,7 +6,7 @@ Alexei Lupan, QA analyst & trainer
 
 I am interested in test design issues, advanced trainings for new QA stuff and sometimes Python. Happy with baritone guitars and Robert Heinlein’s books.
 
-This repository is my 'school bench' with Python based on Al Sweigart lessons, so welcome.
+This repository is my 'school bench' with Python based on Al Sweigart lessons in russian language, so welcome.
 
 Personal Website: [testitquickly.com](https://testitquickly.com/)
 
