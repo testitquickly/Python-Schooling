@@ -1,3 +1,4 @@
 *.py~
 ../Book/
 /.metadata/
+*.eclipse.core.resources.prefs
