@@ -5,9 +5,10 @@ Created on 10 дек. 2018 г.
 @author: astenix
 page 51
 '''
-#  Учебная программа, интерактивно приветствует юзера.
+# It's as if the interpreter inserts this at the top
+# of your module when run as the main program. 
 if __name__ == '__main__':
-# получаем ввод от юзера в переменную userName
+# Интерактивно приветствует юзера и получаем ввод от юзера в переменную userName
 	print('Здравствуйте. Как вас зовут?')
 	userName = input()
 # на ходу высчитываем количество символов в переменной с именем юзера и выводим его
