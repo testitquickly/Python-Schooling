@@ -2,3 +2,4 @@
 ../Book/
 /.metadata/
 *.eclipse.core.resources.prefs
+*.cpython-37.pyc
