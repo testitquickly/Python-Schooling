@@ -3,3 +3,4 @@
 /.metadata/
 *.eclipse.core.resources.prefs
 *.cpython-37.pyc
+__init__.py
