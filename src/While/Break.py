@@ -12,5 +12,6 @@ if __name__=='__main__':
         name=input()
         # Приводим условие
         if name=='your name':
+            # Просто прервать выполнение wile и перейти к следующей строке
             break
-        print('Ok')
+    print('Ok')
