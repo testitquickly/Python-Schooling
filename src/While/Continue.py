@@ -10,15 +10,15 @@ Created on 15 янв. 2021 г.
 '''
 
 if __name__=='__main__':
-    while True:
-        print('Who are you?')
-        name=input()
-        # Приводим условие
-        if name != 'Joe':
+	while True:
+		print('Who are you?')
+		name=input()
+# Приводим условие
+		if name!='Joe':
 			continue
 		print('Hello, Joe, provide the password like SWORDFISH without capitals')
-            # Просто прервать выполнение wile и перейти к следующей строке
-		password = input()
-		if password == 'swordfish':
+# Просто прервать выполнение wile и перейти к следующей строке
+		password=input()
+		if password=='swordfish':
 			break
-    print('Ok')
+	print('Ok')
