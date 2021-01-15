@@ -16,7 +16,7 @@ if __name__=='__main__':
         # Приводим условие
         if name != 'Joe':
 			continue
-		print('Hello, Joe, provide the password like SWORDFISH')
+		print('Hello, Joe, provide the password like SWORDFISH without capitals')
             # Просто прервать выполнение wile и перейти к следующей строке
 		password = input()
 		if password == 'swordfish':
