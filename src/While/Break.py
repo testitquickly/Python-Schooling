@@ -10,6 +10,7 @@ if __name__=='__main__':
     while True:
         print('Type your name.')
         name=input()
+        # Приводим условие
         if name=='your name':
             break
         print('Ok')
